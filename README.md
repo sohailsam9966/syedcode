@@ -1,2 +1,2 @@
 # syedcode
-sample code for learning 
+need you things in code 
