@@ -3,6 +3,7 @@ sample code for learning
 
 let do changes in this progrem for new people ideas
 
+need changes has to done
 
 public class StringExample
 {	public static void main(String[] args)
