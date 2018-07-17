@@ -1,6 +1,7 @@
 # syedcode
 sample code for learning 
 
+let do changes 
 
 public class StringExample
 {	public static void main(String[] args)
