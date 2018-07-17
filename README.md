@@ -1,7 +1,8 @@
 # syedcode
 sample code for learning 
 
-let do changes 
+let do changes in this progrem for new people ideas
+
 
 public class StringExample
 {	public static void main(String[] args)
